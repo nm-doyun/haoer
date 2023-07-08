@@ -1,0 +1,22 @@
+{
+  "name": "haoer",
+  "version": "1.0.5",
+  "main": "index.js",
+  "description": "Haoer es un marco de trabajo de Node.js para crear aplicaciones web. Está diseñado para ser simple, flexible y fácil de usar. Con Haoer, puedes crear aplicaciones web rápidamente sin la necesidad de aprender una gran cantidad de conceptos o sintaxis complicados.",
+  "author": "alas_sxx",
+  "license": "MIT",
+  "keywords": [
+    "haoer",
+    "framework",
+    "server",
+    "web",
+    "http",
+    "rest",
+    "restful",
+    "router",
+    "app"
+  ],
+  "dependencies": {
+    "ejs": "^3.1.9"
+  }
+}
